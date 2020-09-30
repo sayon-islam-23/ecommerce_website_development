@@ -1,4 +1,4 @@
-# ecommerce_website_development
+# ecommerce_website_development an amazing project
 本项目基于Django1.8.2等来开发一个电商平台，可实现注册、登录、浏览、购买、支付等全部常用功能。
 
 ## 运行方式：
